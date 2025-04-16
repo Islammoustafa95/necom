@@ -1,0 +1,20 @@
+{
+  "name": "New Exclusive",
+  "short_name": "New Exclusive",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#40E0D0",
+  "background_color": "#0a0f1c",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait",
+  "categories": ["business", "design", "construction"],
+  "description": "Leading architectural engineering firm specializing in custom pool design, acrylic works, and innovative construction solutions in UAE.",
+  "screenshots": [],
+  "prefer_related_applications": false
+}
